@@ -43,6 +43,7 @@ const Planets = () => {
 
   return (
     <div>
+      <h1>ESTE ES MI PRIMER CAMBIO. HOLA MUNDO!</h1>
       <Table columns={columns} data={data.results.slice(0, 3)} /* :D */ />
     </div>
   );
